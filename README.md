@@ -88,7 +88,3 @@ SchTask 是一个免费且开源的项目，我们欢迎任何人为其开发和
 - 如果你有任何其他方面的问题或合作，欢迎发送邮件至 0x727Team@gmail.com 。
 
 > 提醒：和项目相关的问题最好在 issues 中反馈，这样方便其他有类似问题的人可以快速查找解决方法，并且也避免了我们重复回答一些问题。
-
-## Stargazers over time
-
-[![Stargazers over time](imgs/SchTask_0x727-20210830114007237.svg)](https://starchart.cc/0x727/SchTask_0x727)
